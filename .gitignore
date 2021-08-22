@@ -1,0 +1,16 @@
+# venv
+bin/
+etc/
+lib/
+lib64
+pyvenv.cfg
+share/
+
+# data
+data/
+
+# vim
+*.swp
+
+# jupyter
+.ipynb_checkpoints/
